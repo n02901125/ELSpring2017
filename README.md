@@ -1,2 +1,2 @@
 ## ELSpring2017
-Template for Spring 2017 Embedded Linux class This is a template for students to clone for their work in the class. You should maintain the directory structure
+This repository contains the work of James Earl in the Spring 2017 session of Embedded Linux taught by Easwaran at SUNY New Paltz.
