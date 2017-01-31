@@ -1,2 +1,2 @@
 # Documentation Directory. 
-All your documentation should go here.
+Documentation of James' work is placed here.
