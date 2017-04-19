@@ -1,2 +1,2 @@
 # Documentation Directory. 
-Documentation of James' work is placed here.
+Initial Progress Report of the Project
