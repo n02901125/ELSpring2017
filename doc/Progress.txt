@@ -1,0 +1,10 @@
+James Earl
+Richard Paras
+
+Our project is to collect temperature and humidity data to a database. That data will then be accessed by a remote device and made accessible to a web server located on another device.
+
+So far, we have configured and verified operation of the sensor. We have also made the database and started logging data to it. We have made the database accessible to the remote device. We have began configuring the remote Pi with a flask web server to display the required data. 
+
+What we have left to do, most everything web server related. We should have this part of the project completed in the next couple class periods.
+
+James and Richard have been diligently working together to complete the entire task and the work hasn't really ever been "divided" explicitly. We both come to a halt in the road, we both work quickly to overcome it together.
